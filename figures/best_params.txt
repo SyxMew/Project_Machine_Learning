@@ -1,0 +1,7 @@
+Best DT params:
+{'clf__criterion': 'gini', 'clf__max_depth': None, 'clf__min_samples_split': 2}
+Best DT CV score (f1): 0.9762458236306572
+
+Best KNN params:
+{'clf__n_neighbors': 9, 'clf__p': 2, 'clf__weights': 'distance'}
+Best KNN CV score (f1): 0.9846478075310646
