@@ -1,10 +1,3 @@
-# complete_heart_pipeline.py
-# ===========================================================
-#  PROGRAM: Prediksi Risiko Penyakit Jantung (lengkap)
-#  METODE: Decision Tree + KNN (GridSearch + Voting Ensemble)
-#  OUTPUT : model (joblib), figures (ROC, CM, feature importance), csv hasil prediksi
-# ===========================================================
-
 import os
 import pandas as pd
 import numpy as np
@@ -27,9 +20,6 @@ from sklearn.metrics import (
     roc_curve, auc, roc_auc_score, ConfusionMatrixDisplay
 )
 
-# -------------------------
-# CONFIG
-# -------------------------
 FILE_NAME = 'heart.csv'
 RANDOM_STATE = 42
 TEST_SIZE = 0.2
