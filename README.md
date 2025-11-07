@@ -95,9 +95,8 @@ Model menunjukkan performa tinggi dan generalisasi yang baik pada data uji.
 Aplikasi dikembangkan dengan `Streamlit` menggunakan model ensemble yang telah disimpan (`ensemble_model.joblib`).
 Pengguna dapat menginput data klinis pasien melalui antarmuka sederhana dan mendapatkan hasil prediksi risiko secara instan.
 
-### 🔗 Repository & Deployment
-- *GitHub Repository:* [https://github.com/username/heart-disease-prediction](#)
-- *Demo Streamlit (opsional):* [https://heartpredictor.streamlit.app](#)
+### 🔗 Repository
+- *GitHub Repository:* [https://github.com/SyxMew/Project_Machine_Learning](#)
 
 ### 🎥 Video Demo (Penjelasan):
 1. *Tampilan UI:* Form input berisi 13 parameter klinis pasien.
@@ -125,8 +124,8 @@ Berikut beberapa grafik hasil evaluasi model:
 | *Nama Anggota* | *Tugas Utama* |
 |:-----------------|:----------------|
 | *Helga Yuliani Putri Aritonang* | EDA, pengembangan model KNN, penyusunan laporan akhir |
-| *[Anggota 2]* | Pembuatan model Decision Tree, ensemble integration, analisis evaluasi |
-| *[Anggota 3]* | Pembuatan UI Streamlit, deployment, dokumentasi GitHub & video demo |
+| *Raja Wira Utama* | Pembuatan model Decision Tree, ensemble integration, analisis evaluasi |
+| *M.Adrian Syahputra* | Pembuatan UI Streamlit, deployment, dokumentasi GitHub & video demo |
 
 ---
 
@@ -134,13 +133,3 @@ Berikut beberapa grafik hasil evaluasi model:
 - World Health Organization (2023). Cardiovascular diseases (CVDs). [https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)](https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds))
 - Kaggle. Heart Disease Dataset. [https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset)
 - Pedregosa et al. (2011). Scikit-learn: Machine Learning in Python. JMLR 12, pp. 2825–2830.
-
----
-
-## 🧾 Lisensi
-Proyek ini dibuat untuk keperluan akademik.
-Bebas digunakan untuk tujuan pembelajaran dan penelitian non-komersial dengan mencantumkan atribusi kepada pengembang.
-
----
-
-*© 2025 — Heart Disease Prediction Project*
